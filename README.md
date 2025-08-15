@@ -137,6 +137,3 @@ If you use this work in your research, please cite:
 }
 ```
 
----
-
-If you want, I can also **add diagrams and a quick-start Colab link** to make the README more engaging and user-friendly for GitHub visitors. That would help your repo stand out visually.
