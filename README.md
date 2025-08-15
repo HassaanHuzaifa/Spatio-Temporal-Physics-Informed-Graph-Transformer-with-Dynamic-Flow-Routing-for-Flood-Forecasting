@@ -1,6 +1,4 @@
-Here’s a complete `README.md` draft for your repository based on the uploaded research paper:
 
----
 
 # ST-PIGT-DFR: Spatio-Temporal Physics-Informed Graph Transformer with Dynamic Flow Routing
 
@@ -138,12 +136,6 @@ If you use this work in your research, please cite:
   year={2025}
 }
 ```
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – see the LICENSE file for details.
 
 ---
 
